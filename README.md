@@ -11,3 +11,5 @@
 * Учебник по анализу данных https://edu.hse.ru/course/view.php?id=136231 
 * Учебник по Программированию на Python https://edu.hse.ru/course/view.php?id=133389
 
+<h3>Подготовка к НЭ</h3>
+* Анализ данных https://edu.hse.ru/course/view.php?id=133864
