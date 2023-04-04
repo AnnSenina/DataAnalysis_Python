@@ -22,3 +22,4 @@
 * <a href="https://youtube.com/playlist?list=PLWKPhCKW0I5II7NL00pNFJleAyg4tG49S">Плейлист</a> 
 * <a href="https://docs.google.com/spreadsheets/d/1jxOLh2eV63YsAPRcAh-iaDNHoXKxCYhedR-u9Ozf9ZQ/edit?usp=sharing
 ">Баллы</a> 
+* <a href="https://www.anaconda.com/products/distribution">Anaconda</a>
