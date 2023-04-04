@@ -15,6 +15,7 @@
 
 * <a href="https://edu.hse.ru/course/view.php?id=133864">Анализ данных (банк, демоверсия, спецификация)</a>
 * <a href="https://docs.google.com/document/d/1HniRaGDw5kTIqP2FlhFSlyr3EFdxG53fC1wfWoqj3Ug/edit?usp=sharing">Правила проведения НЭ по анализу данных</a>, разрешенные среды: Excel, LibreOffice, Jamovi Desktop, Numbers (MacOS).
+* <a href="https://edu.hse.ru/course/view.php?id=134286">Программирование (банк, демоверсия, спецификация)</a>
 
 <h3>Важные ссылки</h3>
 
